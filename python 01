@@ -1,0 +1,36 @@
+print("hello world")
+# data types
+a=23
+b="hiii"
+c=6.9
+#numbers
+a=45
+b=5.8
+c=4+2j
+print(a,type(a))
+print(b,type(b))
+print(c,type(c))
+#string
+str1="hello"
+str2="my name is rinku"
+print(str1+str2)
+print(str1[0:5])
+print(str2[6])
+print(str1*2)
+#list
+l=[12,"hello",7.6]
+print(l)
+print(l,typr(l))
+print(l[0:6])
+#tuple
+t=(12,"hiiiii",3.5)
+print(t)
+print(t,type(t))
+print(t[3])
+#set
+s={10,20,40,60,80}
+print(s)
+print(s,type(s))
+print(s[0:7])
+
+
